@@ -78,9 +78,10 @@ namespace Tarea1_Audry_Spence_Vargas
                 Console.WriteLine("Las edades del Usuario1  {0} y Usuario2 son {1}:");
                 return false;
             }
-
-            
-
+        }
+        static public void metodoNuevo() 
+        {
+        
         }
 
     }
