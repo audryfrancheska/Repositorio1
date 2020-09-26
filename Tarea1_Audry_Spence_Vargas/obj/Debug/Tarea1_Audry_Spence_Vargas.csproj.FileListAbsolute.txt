@@ -1,0 +1,7 @@
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\bin\Debug\Tarea1_Audry_Spence_Vargas.exe.config
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\bin\Debug\Tarea1_Audry_Spence_Vargas.exe
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\bin\Debug\Tarea1_Audry_Spence_Vargas.pdb
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\obj\Debug\Tarea1_Audry_Spence_Vargas.csprojAssemblyReference.cache
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\obj\Debug\Tarea1_Audry_Spence_Vargas.csproj.CoreCompileInputs.cache
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\obj\Debug\Tarea1_Audry_Spence_Vargas.exe
+C:\Users\Audry\Desktop\Tarea1_Audry_Spence_Vargas\obj\Debug\Tarea1_Audry_Spence_Vargas.pdb
